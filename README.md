@@ -29,5 +29,6 @@ Insight: Higher engagement (clicks) correlated with higher scores. The distribut
 What I did: I combined the course module and presentation year, analyzed the percentage of final results by module, and visualized this with stacked bar charts.
 Why: The goal was to observe differences in outcomes across different modules and presentations.
 Insight: Certain modules had higher failure rates, indicating they may be more challenging or need better instructional design.
+
 Conclusion:
 This analysis highlighted key demographic and academic factors that influence student success. Insights gained from this project can guide institutions in identifying areas where students may need more support, such as offering additional resources for students from lower socioeconomic backgrounds, older age groups, or those with disabilities.
